@@ -1,0 +1,94 @@
+/* ============================================
+   Group Approval Page Specific Styles
+   ============================================ */
+
+.approval-section {
+    margin-top: 2rem;
+}
+
+.approval-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--text-primary);
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.approval-item {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    border-left: 4px solid var(--warning-color);
+}
+
+.approval-item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-bottom: 1rem;
+}
+
+.approval-item-content {
+    flex: 1;
+}
+
+.approval-item-content h3 {
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.approval-item-meta {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.75rem;
+}
+
+.approval-item-description {
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    margin-top: 0.75rem;
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-radius: var(--border-radius-sm);
+}
+
+.approval-actions {
+    display: flex;
+    gap: 0.5rem;
+    flex-shrink: 0;
+}
+
+.approval-actions .btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+}
+
+.empty-approval {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-secondary);
+}
+
+.empty-approval p {
+    font-size: 1.125rem;
+}
+
+@media (max-width: 768px) {
+    .approval-item-header {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .approval-actions {
+        width: 100%;
+        justify-content: stretch;
+    }
+    
+    .approval-actions .btn {
+        flex: 1;
+    }
+}
+
