@@ -55,10 +55,11 @@ Proyek **Notely** dikembangkan untuk:
 
 URL Aplikasi:  http://localhost/Notely/
 
+---
+
 ## Struktur Direktori
 
 Notely/
-│
 ├── auth/
 │   ├── login.php
 │   ├── register.php
@@ -90,6 +91,7 @@ Notely/
 ├── dashboard.php
 ├── index.php
 └── README.md
+
 
 
 
