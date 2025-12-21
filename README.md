@@ -58,37 +58,39 @@ URL Aplikasi:  http://localhost/Notely/
 ## Struktur Direktori
 
 Notely/
+│
 ├── auth/
-│ ├── login.php
-│ ├── register.php
-│ └── logout.php
+│   ├── login.php
+│   ├── register.php
+│   └── logout.php
 │
 ├── config/
-│ └── database.php
+│   └── database.php
 │
 ├── database/
-│ └── notely.sql
+│   └── notely.sql
 │
 ├── notes/
-│ ├── index.php
-│ ├── tambah.php
-│ ├── edit.php
-│ └── hapus.php
+│   ├── index.php
+│   ├── tambah.php
+│   ├── edit.php
+│   └── hapus.php
 │
 ├── tasks/
-│ ├── index.php
-│ ├── tambah.php
-│ ├── edit.php
-│ └── hapus.php
+│   ├── index.php
+│   ├── tambah.php
+│   ├── edit.php
+│   └── hapus.php
 │
 ├── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
+│   ├── css/
+│   ├── js/
+│   └── images/
 │
 ├── dashboard.php
 ├── index.php
 └── README.md
+
 
 
 ---
