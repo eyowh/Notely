@@ -1,5 +1,5 @@
 # Website Notely – Aplikasi Catatan & Tugas  
-**Intan Tri Yulianti – Teknik Informatika – Universitas Pamulang**
+**Muhammad Ario Ardhi – Teknik Informatika – Universitas Pamulang**
 
 Website **Notely** adalah aplikasi berbasis web yang digunakan untuk **mengelola catatan, tugas, dan jadwal aktivitas secara digital**. Sistem ini dirancang untuk membantu pengguna dalam mencatat informasi penting, mengatur daftar tugas, serta meningkatkan keteraturan dan produktivitas sehari-hari.
 
