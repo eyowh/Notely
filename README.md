@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Notely - Aplikasi Manajemen Catatan dan Produktivitas
 
 Notely adalah aplikasi manajemen catatan dan pengingat yang dirancang untuk membantu pengguna mengatur aktivitas, menyelesaikan tugas, serta berkolaborasi dengan orang lain secara efektif.
@@ -179,3 +180,7 @@ Jika ada pertanyaan atau masalah, silakan buat issue di repository atau hubungi 
 
 **Notely** - Kelola produktivitas Anda dengan lebih baik! 🚀
 
+=======
+# Notely
+Tugas Pemograman 2 
+>>>>>>> 8d8d0b6e4f789496246db921b0638a3bf2136ce2
