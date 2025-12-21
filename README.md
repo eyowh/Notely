@@ -95,6 +95,7 @@ Notely/
 
 
 
+
 ---
 
 ## Teknologi yang Digunakan
